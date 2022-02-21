@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=Html5&style=flat-square&logo=Html5&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=CSS3&style=flat-square&logo=CSS3&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=GraphQL&style=flat-square&logo=GraphQL&color=1D1F21&" />
-        <img src ="https://img.shields.io/static/v1?label=&message=Sass&style=flat-square&logo=Sass&color=1D1F21&" />
+  <img src ="https://img.shields.io/static/v1?label=&message=Sass&style=flat-square&logo=Sass&color=1D1F21&" />
 </div>
 
 #### Framework
@@ -40,18 +40,12 @@
   <img src="https://img.shields.io/static/v1?label=&message=MySQL&style=flat-square&logo=MySQL&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=Redis&style=flat-square&logo=Redis&color=1D1F21&" />
 </div>
-  
-#### Operating system
+
+#### Operating system and Tools
 
 <div>
   <img src="https://img.shields.io/static/v1?label=&message=MacOS&style=flat-square&logo=MacOS&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=Ubuntu&style=flat-square&logo=Ubuntu&color=1D1F21&" />
-  <img src="https://img.shields.io/static/v1?label=&message=Window&style=flat-square&logo=Window&color=1D1F21&" />
-</div>
-
-#### Tools
-
-<div>
   <img src="https://img.shields.io/static/v1?label=&message=Eslint&style=flat-square&logo=Eslint&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=Prettier&style=flat-square&logo=Prettier&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=Jest&style=flat-square&logo=Jest&color=1D1F21&" />
