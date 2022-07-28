@@ -1,4 +1,4 @@
-**I am a seasoned front-end development engineer with 6+ practical experience. Also I have a strong sense for aesthetics and interactions.**
+**I am a seasoned front-end development engineer with 8+ practical experience. Also I have a strong sense for aesthetics and interactions.**
 
 <!--
 - 🔭 I’m currently working on ...
