@@ -58,3 +58,7 @@
 ## 📈 My GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=90arther&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<a title="Create one for me" href="https://github.com/CatsJuice/ssr-contributions-img">
+  <img alt="" src="https://ssr-contributions-svg.vercel.app/_/90arther?chart=3dbar&format=svg&animation=fall&weeks=40" >
+</a>
