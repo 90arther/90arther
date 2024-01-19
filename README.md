@@ -1,4 +1,4 @@
-**I am a seasoned front-end development engineer with 8+ practical experience. Also I have a strong sense for aesthetics and interactions.**
+**I am a seasoned software engineer with 8+ practical experience. Also I have a strong sense for aesthetics and interactions.**
 
 <!--
 - 🔭 I’m currently working on ...
@@ -37,6 +37,7 @@
 #### Database
 
 <div>
+  <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&style=flat-square&logo=PostgreSQL&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=MySQL&style=flat-square&logo=MySQL&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=Redis&style=flat-square&logo=Redis&color=1D1F21&" />
 </div>
