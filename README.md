@@ -16,9 +16,9 @@
 #### Programming Language
 
 <div>
+  <img src="https://img.shields.io/static/v1?label=&message=Go&style=flat-square&logo=Go&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=Typescript&style=flat-square&logo=typescript&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=Javascript&style=flat-square&logo=javascript&color=1D1F21&" />
-  <img src="https://img.shields.io/static/v1?label=&message=Go&style=flat-square&logo=Go&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=Html5&style=flat-square&logo=Html5&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=CSS3&style=flat-square&logo=CSS3&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=GraphQL&style=flat-square&logo=GraphQL&color=1D1F21&" />
